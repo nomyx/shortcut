@@ -7,7 +7,7 @@ license-file: LICENSE
 copyright: 2016 Corentin Dupont
 maintainer: Corentin Dupont
 stability: Experimental
-description: A class for interruptable computations
+description: A class for interruptible computations
 category: Language
 Homepage: http://www.nomyx.net
 author: Corentin Dupont
