@@ -2,7 +2,7 @@
 Shortcut
 ========
 
-Class of parralel computations that can be interrupted.
+Class of parallel computations that can be interrupted.
 
 Contact
 =======
